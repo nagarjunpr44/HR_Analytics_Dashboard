@@ -22,3 +22,7 @@ Basic understanding of Excel formulas and functions.
 Familiarity with data visualization concepts.
 Tableau Desktop or Tableau Public for using the Tableau file.
 Python and any required libraries if automating the dashboard generation.
+
+Dashboard
+
+
