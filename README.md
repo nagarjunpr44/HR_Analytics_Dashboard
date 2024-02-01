@@ -24,7 +24,7 @@ Tableau Desktop or Tableau Public for using the Tableau file.
 Python and any required libraries if automating the dashboard generation.
 
 
-##Dashboard
+## Dashboard
 
 ![HR_Analytics_Dashboard](https://github.com/nagarjunpr44/HR_Analytics_Dashboard/assets/72065721/eda6bd92-f3ca-471c-b017-4e52f78ace5e)
 
